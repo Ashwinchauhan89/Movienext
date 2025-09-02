@@ -1,0 +1,12 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="M favicon">
+  <style>
+    .font {
+      font-family: 'Georgia', serif;
+      font-weight: bold;
+      font-size: 48px;
+      fill: #C2185B; /* Dark pink */
+      user-select: none;
+    }
+  </style>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="font">M</text>
+</svg>
